@@ -1,0 +1,18 @@
+{
+  "name": "test-patlite",
+  "version": "1.0.0",
+  "main": "test.js",
+  "scripts": {
+    "start": "node test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.0",
+    "jsmodbus": "^4.0.10",
+    "net": "^1.0.2",
+    "nodemon": "^3.1.7"
+  }
+}
